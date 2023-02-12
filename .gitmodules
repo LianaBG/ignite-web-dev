@@ -1,0 +1,3 @@
+[submodule "scorch"]
+	path = scorch
+	url = https://github.com/Schulich-Ignite/scorch-winter-2023.git
