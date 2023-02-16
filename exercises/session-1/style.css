@@ -1,47 +1,51 @@
 body {
-    background-color: #121212
+  background-color: #121212;
 }
 
 html {
-    color: #e5e2e2;
-    margin: 0 auto;
-    max-width: 90ch;
-    font-family: sans-serif;
-    line-height: 1.6;
+  color: #e5e2e2;
+  margin: 0 auto;
+  max-width: 90ch;
+  font-family: sans-serif;
+  line-height: 1.6;
 }
 
 h1 {
-    color: #FFFFFF;
+  color: #ffffff;
 }
 
-h2, h3, h4, h5, h6 {
-    color: #eeeeee;
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #eeeeee;
 }
 
 a {
-    color: #03DAC6;
+  color: #03dac6;
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    object-fit: cover;
-    border-radius: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  border-radius: 5%;
 }
 
 figure {
-    margin: auto;
-    text-align: center;
-    font-style: italic;
+  margin: auto;
+  text-align: center;
+  font-style: italic;
 }
 
 figcaption {
-    margin: 0.5em;
+  margin: 0.5em;
 }
 
 footer {
-    display: block;
-    color: #9e9d9d;
-    font-size: small;
+  display: block;
+  color: #9e9d9d;
+  font-size: small;
 }
